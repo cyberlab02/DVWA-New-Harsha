@@ -1,4 +1,4 @@
 # DWVA-New
 
-testing DAST_SAST-- Har
+testing DAST_SAST--
 
