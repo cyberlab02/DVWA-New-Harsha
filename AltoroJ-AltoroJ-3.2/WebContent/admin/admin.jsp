@@ -22,7 +22,7 @@ IBM AltoroJ
 %>    
 <jsp:include page="/header.jspf"/>
 
-<div id="wrapper" style="width: 99%;">
+<div id="wrapper" style="width: 90%;">
 	<jsp:include page="/bank/membertoc.jspf"/>
 	<td valign="top" colspan="3" class="bb">
 		<%@page import="com.ibm.security.appscan.altoromutual.util.ServletUtil"%>
